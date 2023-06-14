@@ -1,0 +1,20 @@
+
+body
+{
+    background-color: lightpink;
+    color: white
+    ;
+}
+
+#camera,#result
+{
+    height: 350px;
+    width: 279px;
+}
+
+#capture_image
+{
+    height: 350px;
+    width: 279px;
+    border: 5px ridge red;
+}
